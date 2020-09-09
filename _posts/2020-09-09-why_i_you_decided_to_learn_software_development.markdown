@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Why I you decided to learn software development?"
+date:       2020-09-09 17:35:10 +0000
+permalink:  why_i_you_decided_to_learn_software_development
+---
+
+
+Before Covid-19 hit I was living in Austin, TX playing music in bands and making money as a Bartender. Then Covid struck Austin. Bars shut down and music venues closed. Soon after my roommates left Austin and I sat there by myself wondering what the heck to do. Not one to waste time, I started doing lessons on freecodecamp.org. It intrigued me and I liked the idea of being able to do work straight from my laptop. It was a nice change of pace after working in the service industry where people can be rather rude and stressful. I was finding coding to be a great way to use my brain in order to solve problems. It made me feel like I was achieving something instead of just sitting around waiting for Covid to end. Then as it became more apparent that Covid was not going to end anytime soon, I knew I had to change with the times. My experience on freecodecamp.org allowed me to realize I had an interest in software development, and with the added perk of being able to work remotely in these uncertain times, I decided to follow my curiosity and study software development. I think it will be challenging to learn, but as I've gotten older I've realized that's a good thing. Challenges help you grow and when you get to the end you feel a great sense of self accomplishment. Also, my decision to study software development had to do with the amount of income I want to make in order to one day support a family. So there you have it. Stu's reasons for why I decided to learn software development. Oh and I also really want a business card one day that reads, Stuart Fleishman - Software Engineer. I think it has a nice ring to it.  
