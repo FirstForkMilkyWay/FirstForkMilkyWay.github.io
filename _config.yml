@@ -1,11 +1,11 @@
 # Site settings
 author: Stuart Fleishman
-title: 
+title: Software Engineering 
 header-img: img/home-bg.png
 email: stuart.a.fleishman@gmail.com
 copyright_name: Stuart Fleishman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Studying Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  FirstForkMilkyWay
